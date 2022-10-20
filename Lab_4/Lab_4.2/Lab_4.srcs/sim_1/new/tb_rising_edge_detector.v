@@ -28,7 +28,7 @@ reg reset;
 
 wire outedge;
 
-rising_edge ul (
+rising_edge_detector ul (
 .clk(clk),
 .signal(signal),
 .reset(reset),

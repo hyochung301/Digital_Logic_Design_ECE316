@@ -49,7 +49,7 @@ module rising_edge_detector(
     end
    
    2'b01 :  begin 
-    outedge = 1'b0;
+    outedge = 1'b1;
     if (~signal)
         next_state = 2'b00;
     else 
@@ -77,7 +77,7 @@ module rising_edge_detector(
   
   // Sequential logic
   
-  always @(posedge slow_clk) begin
+  always @(posedge clk) begin
     if (reset)
      state <= 2'b00;
   else 
