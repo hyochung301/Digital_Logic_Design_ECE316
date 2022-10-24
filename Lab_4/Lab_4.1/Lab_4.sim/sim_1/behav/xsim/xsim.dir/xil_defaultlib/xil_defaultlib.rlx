@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/kools/Lab_4/Lab_4.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/kools/Lab_4/Lab_4.srcs/sim_1/new/tb_flight_attendant_call_system.v,1666410453,verilog,,,,tb_flight_attendant_call_system,,,,,,,,
+C:/Users/kools/Lab_4/Lab_4.srcs/sources_1/new/flight_attendant_call_system.v,1666409453,verilog,,C:/Users/kools/Lab_4/Lab_4.srcs/sim_1/new/tb_flight_attendant_call_system.v,,flight_attendant_call_system,,,,,,,,
+C:/Users/kools/Lab_4/Lab_4.srcs/sources_1/new/flight_attendant_call_system_dataflow.v,1666409637,verilog,,C:/Users/kools/Lab_4/Lab_4.srcs/sim_1/new/tb_flight_attendant_call_system.v,,flight_attendant_call_system_dataflow,,,,,,,,

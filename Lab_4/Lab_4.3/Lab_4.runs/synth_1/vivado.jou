@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Oct 21 23:30:16 2022
+# Process ID: 10544
+# Current directory: C:/Users/kools/Lab_4/Lab_4.runs/synth_1
+# Command line: vivado.exe -log time_multiplex_main.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source time_multiplex_main.tcl
+# Log file: C:/Users/kools/Lab_4/Lab_4.runs/synth_1/time_multiplex_main.vds
+# Journal file: C:/Users/kools/Lab_4/Lab_4.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source time_multiplex_main.tcl -notrace
