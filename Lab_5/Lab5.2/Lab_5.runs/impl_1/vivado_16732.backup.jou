@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Nov  4 11:58:44 2022
+# Process ID: 16732
+# Current directory: C:/Users/kools/Lab_5/Lab_5.runs/impl_1
+# Command line: vivado.exe -log CLA_4bits.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source CLA_4bits.tcl -notrace
+# Log file: C:/Users/kools/Lab_5/Lab_5.runs/impl_1/CLA_4bits.vdi
+# Journal file: C:/Users/kools/Lab_5/Lab_5.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source CLA_4bits.tcl -notrace

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Fri Nov 11 17:05:13 2022
+# Process ID: 7640
+# Current directory: C:/Users/kools/OneDrive/Documents/GitHub/Digital_Logic_Design_ECE316/Lab_5/Lab5.1/Lab_5.runs/impl_1
+# Command line: vivado.exe -log RCA_4bits.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source RCA_4bits.tcl -notrace
+# Log file: C:/Users/kools/OneDrive/Documents/GitHub/Digital_Logic_Design_ECE316/Lab_5/Lab5.1/Lab_5.runs/impl_1/RCA_4bits.vdi
+# Journal file: C:/Users/kools/OneDrive/Documents/GitHub/Digital_Logic_Design_ECE316/Lab_5/Lab5.1/Lab_5.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source RCA_4bits.tcl -notrace
