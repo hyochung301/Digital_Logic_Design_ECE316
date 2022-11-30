@@ -19,7 +19,9 @@ Labs for [ECE316 Digital Logic Design] course, using the Basys 3 Artix-7 FPGA Tr
 - Lab 5 - Calculator with Adders and Registers
 - Lab 6 - Term Project – Custom Processor Design: Programmable Stopwatch/Timer
 
-https://img.youtube.com/vi/9S2I1dqgm7I/maxresdefault.jpg
+
+[![Watch the demo]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](https://img.youtube.com/vi/9S2I1dqgm7I/maxresdefault.jpg))]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/9S2I1dqgm7I))
+
 
 
   **Note:** These labs are from fall 2022
